@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:gif/main.dart';
+import 'package:gif/ui/gif_page.dart';
 
 import 'package:gif/ui/home_page.dart';
 
